@@ -5,7 +5,7 @@ author: Georg Grab <g.j.grab.dev@gmail.com>
 homepage: https://github.com/talkdirty/android_job_scheduler
 
 environment:
-  sdk: ">=1.19.0 <2.0.0"
+  sdk: ">=1.19.0 <3.0.0"
 
 dependencies:
   flutter:
